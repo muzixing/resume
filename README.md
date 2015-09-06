@@ -1,6 +1,3 @@
-## About me
-
-Last update: 2015/6/22
 
 # Cheng Li
 
