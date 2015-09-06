@@ -27,7 +27,7 @@ Freshman of Graduate Student
 
 ## Internship
 
-*   **China Academy of Telecommunication Research of MIIT(CATR)——OTN extension of OpenFlow1.0，Load balancing application. (2013.7 - 2014.1)**
+*   **China Academy of Telecommunication Research of MIIT(CATR) —— OTN extension of OpenFlow1.0，Load balancing application. (2013.7 - 2014.1)**
     *   Complete packets static library encapsulation of OpenFlow1.0, and add OTN extended byte
     *   Develop an original Controller which supports IP and OTN
     *   Test OTN extension via my controller, Mininet, and Sprient Testcenter
@@ -58,7 +58,7 @@ Freshman of Graduate Student
     *   Implement QoS via queue to provide customized service
     *   Achieve load balancing application based on multipath by select group table
     
-*   **Acceleration application of HTTP ------ Key Laboratory of Universal Wireless Communications Ministry of Education(2013.3 - 2013.5)**
+*   **Acceleration application of HTTP(2013.3 - 2013.5)**
 
     *   Build the test platform by RYU/POX+OpenvSwitch+Nginx to accelerate the speed of HTTP
     *   Achieve the customized service provider, and support switching of VLAN
@@ -129,14 +129,14 @@ Email:licheng185408@gmail.com
 
 ## 实习经历
 
-*   **工信部•电信研究院•通信标准所 ——OpenFlow的OTN扩展，负载均衡应用 (2013.7-2014.1)**
+*   **工信部•电信研究院•通信标准所 —— OpenFlow的OTN扩展，负载均衡应用 (2013.7-2014.1)**
 
     *   完成Openflow1.0所有报文静态库封装，添加OTN扩展字段
     *   原创开发实现OTN与IP网络兼容的Ccontroller
     *   搭建Ccontroller+Mininet+Sprient Testcenter实验测试平台，测试并验证新协议的可行性
     *   实现流量在IP网与OTN之间的负载均衡应用
     
-*   **中国无线谷（未来网络谷） ————控制器相关学习与研究（2014.3 - 2014-9）**
+*   **中国无线谷（未来网络谷） —— 控制器相关学习与研究（2014.3 - 2014-9）**
 
     *   完成SDN书籍[《软件定义网络核心原理与应用实践》](http://www.ptpress.com.cn/Book.aspx?id=39373)第16章“微控制器Miracle开发实践”
     *   完成毕业设计[《SDN控制器研究与微控制器开发》](http://www.fnlab.net/index.php/-2014.html),并获得北京邮电大学优秀毕业论文（TOP1%)
@@ -163,7 +163,7 @@ Email:licheng185408@gmail.com
     *   基于select类型group table完成多径传输，实现流量负载均衡
     
     
-*   **北京邮电大学•泛网无线教育部重点实验室——SDN应用：HTTP引流(2013.3 - 2013.5)**
+*   **面向用户的差异化HTTP流量加速服务(2013.3 - 2013.5)**
 
     *   使用RYU/POX+Openvswitch+Nginx，搭建SDN(Software Defined Network)实验环境，现实HTTP流量引导
     *   实现不同优先级业务区别对待，vlan切换等功能
