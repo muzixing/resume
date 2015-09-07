@@ -58,7 +58,7 @@ Freshman of Graduate Student
     *   Implement QoS via queue to provide customized service
     *   Achieve load balancing application based on multipath by select group table
     
-*   **Acceleration application of HTTP(2013.3 - 2013.5)**
+*   **HTTP Acceleration application based on VLAN(2013.3 - 2013.5)**
 
     *   Build the test platform by RYU/POX+OpenvSwitch+Nginx to accelerate the speed of HTTP
     *   Achieve the customized service provider, and support switching of VLAN
