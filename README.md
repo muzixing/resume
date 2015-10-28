@@ -10,7 +10,7 @@ Email:licheng185408@gmail.com
 
 ## Education background
 
-Communication Engineering
+Future Network Theory and Application Laboratory (FNL) 
 
 School of Information and Communication Engineering (SICE)
 
