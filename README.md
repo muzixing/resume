@@ -61,7 +61,7 @@ The Second Year of Postgraduate Student
 *   “Winning Prize” of National University Software Defined Networking Competition (2015)
 *   "Honorable Mention" of ICM ( The Interdisciplinary Contest in Modeling)of American university students(2013)
 *   "Outstanding dissertation for bachelor's degree" of BUPT:"[Research of SDN controller and Development of Micro-Controller](http://www.fnlab.net/index.php/-2014.html)"(TOP1%)
-*   "The Second Prize" of "Challenge Cup" national university student extracurricular academic science and technology work competition
+*   "The Second Prize" of "Challenge Cup" Capital university student extracurricular academic science and technology work competition
 *   "The Second Prize in final" & "The Best Pronounciation Award" of 2012 CCTV “Star of Outlook English talent competition”（Drama）of Beijing
 *   "The Second university scholarship" of BUPT for three times.(Top:47/593/7.9%)
 *   "Excellent manager" & "Outstanding volunteer" of "Hainan “Beautiful Minds” college students volunteer teachers association.(www.meizaixinling.com)
