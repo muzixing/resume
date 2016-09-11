@@ -1,6 +1,6 @@
 # Cheng Li
 
-[Email:licheng185408@gmail.com](licheng185408@gmail.com)
+Email:licheng185408@gmail.com
 
 [Github:https://github.com/muzixing](https://github.com/muzixing)
 
