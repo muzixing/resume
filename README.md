@@ -1,6 +1,6 @@
 # Cheng Li
 
-Email:licheng185408@gmail.com
+[Email:licheng185408@gmail.com](licheng185408@gmail.com)
 
 [Github:https://github.com/muzixing](https://github.com/muzixing)
 
@@ -10,13 +10,9 @@ Email:licheng185408@gmail.com
 
 ## Education background
 
-Future Network Theory and Application Laboratory (FNL) 
-
-School of Information and Communication Engineering (SICE)
-
-Beijing University of Posts and Telecommunications (BUPT)
-
-The Second Year of Postgraduate Student
+*	**Beijing University of Posts and Telecommunications(BUPT)**
+	*	M.E.   Software Defined Networking	(2014 - Present)
+	*	B.E.   Communication Engineering                                             GPA: 3.5/4 (2010 - 2014)
 
 ## Publish
 
