@@ -18,13 +18,25 @@ Beijing University of Posts and Telecommunications (BUPT)
 
 The Second Year of Postgraduate Student
 
+## Publish
+
+* Book: “SDN Refactor Network: Architecture and Implementation”, Cheng Li, Zewei Yang (On typesetting)
+* Paper: “OXP: An Efficient Protocol for Scaling SDN-based Ad Hoc Network”  (Accepted by IJRA, SCI)
+* Patent: “A control system, method and apparatus for SDN ”  ( CN105245593A)
+
+
 ## Internship
 
+*	**Chief Technology and Architecture Office of CISCO——OSDNA (2016.8 - Present)**
+	*	Scan physical and virtual network elements in OpenStack environment including host, OVS and VM.
+	*	Store network topology data into MongoDB for visualizing and Troubleshooting.
+
+
 *   **China Academy of Telecommunication Research of MIIT(CATR)——OTN extension of OpenFlow1.0，Load Balancing Application. (2013.7 - 2014.1)**
-    *   Complete encapsulation of OpenFlow1.0 data structure, and add OTN extended byte
-    *   Develop an original Controller "Miracle" which supports IP and OTN
-    *   Test OTN extension via Miracle, Mininet, and Sprient Testcenter
-    *   Achieve Load balancing between IP and OTN demo
+	*	Complete encapsulation of OpenFlow1.0 data structure, and add OTN extended bytes
+	*	Develop an original Controller Miracle which supports IP and OTN
+	*	Achieve load balance between IP network and OTN on testbed built by Miracle, Mininet, and Sprient Testcenter
+
     
 *   **China Future Network Valley•Future Networks Innovation Institute —— Research of SDN Controller（2014.3 - 2014-9）**
     *   Complete the 16th chapter "Development of Micro-Controller:Miracle" of [《SDN Core Principles and Application Pratice》](http://www.ptpress.com.cn/Book.aspx?id=39373)
@@ -68,12 +80,13 @@ The Second Year of Postgraduate Student
 
 ## Skills
 
-*   Programming language: Python(90%), C／C++(5%), Java(5%)
-*   Familiar with TCP/IP, OpenFlow protocol, SDN
-*   System: Linux (Familiar with Ubuntu )
-*   Languages:
-    *   Major: Chinese
-    *   Second: English
+*	Familiar with TCP/IP, OpenFlow (3 years), SDN (3 years), Docker (2 months)
+*	Programming language: Python (3 years), Java (6 months)
+*	System: Linux (Familiar with Ubuntu)
+*	Languages:
+	*	Major: Chinese
+	*	Second: English (CET-6)
+
 
 ## Additional Skills
 
@@ -123,9 +136,21 @@ Email:licheng185408@gmail.com
     
     北京邮电大学 信息与通信工程学院 通信工程
 
+
+## 发表作品
+
+*	书籍：《重构网络：SDN架构与实现》——李呈、杨泽卫（出版社编辑定稿过程中）
+*	论文：OXP: An Efficient Protocol for Scaling SDN-based Ad Hoc Network--IJRA（SCI检索，已录用）
+*	专利：一种软件定义网络SDN的控制系统、方法及装置（CN 105245593 A）
+
 ## 实习经历
 
-*   **工信部•电信研究院•通信标准所 ——OpenFlow的OTN扩展，负载均衡应用 (2013.7-2014.1)**
+*	**Cisco美国总部·Chief Technology and Architecture Office  ——OSDNA (2016.8 - 至今)**
+	*	探测发现OpenStack中虚拟网络的拓扑等信息，实现网络信息可视化
+	*	基于网络信息，对网络信息进行分析，提供OpenStack网络保障方案
+
+
+*   **工信部•电信研究院•通信标准所 ——OpenFlow的OTN扩展，负载均衡应用 (2013.7 - 2014.1)**
 
     *   完成Openflow1.0所有报文静态库封装，添加OTN扩展字段
     *   原创开发实现OTN与IP网络兼容的Ccontroller
@@ -193,3 +218,7 @@ Email:licheng185408@gmail.com
 ## 兴趣爱好
 
 编程、即兴表演、篮球、摄影、跳舞
+
+
+
+
