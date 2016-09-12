@@ -16,7 +16,7 @@ Email:licheng185408@gmail.com
 
 ## Publish
 
-* Book: “SDN Refactor Network: Architecture and Implementation”, Cheng Li, Zewei Yang (On typesetting)
+* Book: “Refactoring Network: Architecture and Implementation of SDN”, Cheng Li, Zewei Yang (On typesetting)
 * Paper: “OXP: An Efficient Protocol for Scaling SDN-based Ad Hoc Network”  (Accepted by IJRA, SCI)
 * Patent: “A control system, method and apparatus for SDN ”  ( CN105245593A)
 
