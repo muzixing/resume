@@ -30,7 +30,7 @@ Email:licheng185408@gmail.com
 
 *   **China Academy of Telecommunication Research of MIIT(CATR)——OTN extension of OpenFlow1.0，Load Balancing Application. (2013.7 - 2014.1)**
 	*	Complete encapsulation of OpenFlow1.0 data structure, and add OTN extended bytes
-	*	Develop an original Controller Miracle which supports IP and OTN
+	*	Develop an original Controller [Miracle](https://github.com/muzixing/Miracle) which supports IP and OTN
 	*	Achieve load balance between IP network and OTN on testbed built by Miracle, Mininet, and Sprient Testcenter
 
     
@@ -43,7 +43,7 @@ Email:licheng185408@gmail.com
 
 *   **Design and Implement Open eXchange Protocol of SDN Controller(2015.3 - 2015.9)**
 
-    *   Research the West-East Interface of SDN controller, and propose Open eXchange Protocol
+    *   Research the West-East Interface of SDN controller, and propose [Open eXchange Protocol](https://github.com/muzixing/OXP)
     *   Design the Open eXchange Protocol, and implement it on SDN controller: Ryu
     *   Achieve the coordinate work of multiple controllers to make the shortest forwarding cross multi-domains
 
