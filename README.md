@@ -43,9 +43,9 @@ Email:licheng185408@gmail.com
 
 *   **Design and Implement Open eXchange Protocol of SDN Controller(2015.3 - 2015.9)**
 
-    *   Research the West-East Interface of SDN controller, and propose [Open eXchange Protocol](https://github.com/muzixing/OXP)
+    *   Study scalability proposes of SDN control plane, and propose [Open eXchange Protocol](https://github.com/muzixing/OXP)
     *   Design the Open eXchange Protocol, and implement it on SDN controller: Ryu
-    *   Achieve the coordinate work of multiple controllers to make the shortest forwarding cross multi-domains
+    *   Based on the coordination of multiple controllers, achieve the shortest forwarding cross multi-domains
 
 *   **Load Balancing on Fattree Topology Based on OpenFlow(2015.1 - 2015.2)**
 
@@ -161,10 +161,10 @@ Email:licheng185408@gmail.com
 
 ## 项目经历
 
-*   **SDN控制器东西向接口协议OXP的设计与实现(2015.3 - 2015.9)**
+*   **SDN控制器协同合作接口协议OXP的设计与实现(2015.3 - 2015.9)**
 
-    *   调研现有控制平面可拓展性实现方案，提出Open eXchange Protocol
-    *   设计Open eXchange Protocol协议， 并在Ryu控制器中实现东西向接口协议OXP
+    *   调研现有控制平面可拓展性实现方案，提出Open eXchange Protocol(OXP)
+    *   设计OXP协议， 并基于Ryu控制器和ONOS实现OXP协议栈
     *   完成基于OXP协议的分级分域多控制协同工作，实现跨域最优路径转发演示应用
 
 *   **基于OpenFlow的负载均衡算法(2015.1 - 2015.2)**
@@ -211,6 +211,7 @@ Email:licheng185408@gmail.com
         *   街头捐书等活动
 *   北京邮电大学•百度俱乐部技术部成员。北京邮电大学•IEEE协会技术部成员（2012-2013）
 *   北京邮电大学•社团联合会公关部部长，负责赞助合作，培养干事(2011)
+
 ## 兴趣爱好
 
 编程、即兴表演、篮球、摄影、跳舞
